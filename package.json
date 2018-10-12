@@ -1,0 +1,22 @@
+{
+  "name": "endosul",
+  "version": "1.0.0",
+  "description": "forum de developpeurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLLoReal/endosul.git"
+  },
+  "keywords": [
+    "endosul"
+  ],
+  "author": "iLLoReal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLLoReal/endosul/issues"
+  },
+  "homepage": "https://github.com/iLLoReal/endosul#readme"
+}
